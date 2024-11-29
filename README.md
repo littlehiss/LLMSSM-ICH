@@ -6,5 +6,5 @@ Intracerebral hemorrhage is an acute neurological disorder with high rates of di
 
 ## Train
 ```python
-python3 train.py
+python train.py
 ```
